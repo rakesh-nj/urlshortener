@@ -1,2 +1,2 @@
 # urlshortener
-URL Shortener built using Golang
+URL Shortener built using Golang and Redis
